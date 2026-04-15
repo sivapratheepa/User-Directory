@@ -1,8 +1,8 @@
 let users = [
-  {name: "Patricia Lebsack", email: "patricia@gmail.com", phone: "1234567890", company: "ABC Ltd"},
-  {name: "Nicholas Runolfsdottir", email: "nicholas@gmail.com", phone: "9876543210", company: "XYZ Ltd"},
-  {name: "Ervin Howell", email: "ervin@gmail.com", phone: "1112223333", company: "Tech Corp"},
-  {name: "Clementine Bauch", email: "clementine@gmail.com", phone: "4445556666", company: "Soft Inc"}
+  {name: "Pratheepa", email: "pratheepa@gmail.com", phone: "1234567890", company: "ABC Ltd"},
+  {name: "Lakshmi", email: "lakshmi@gmail.com", phone: "9876543210", company: "XYZ Ltd"},
+  {name: "Ramar", email: "ramar@gmail.com", phone: "1112223333", company: "Tech Corp"},
+  {name: "Suganthi Raj", email: "suganthiraj@gmail.com", phone: "4445556666", company: "Soft Inc"}
 ];
 
 const container = document.getElementById("userContainer");
